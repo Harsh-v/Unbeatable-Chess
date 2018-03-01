@@ -1,8 +1,8 @@
 # Unbeatable-Chess
 uses a minimax tree with alpha-beta pruning
 
-python3
+> python3
 
-pip install python-chess
+> pip install python-chess
 
-py -3 AlphaBeta.py
+> py -3 AlphaBeta.py
