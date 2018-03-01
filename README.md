@@ -7,5 +7,5 @@ uses a minimax tree with alpha-beta pruning
 
 > py -3 AlphaBeta.py
 
-# To be done - 
-Adding GUI
+## To do - 
+Add GUI
