@@ -6,3 +6,6 @@ uses a minimax tree with alpha-beta pruning
 > pip install python-chess
 
 > py -3 AlphaBeta.py
+
+# To be done - 
+Adding GUI
